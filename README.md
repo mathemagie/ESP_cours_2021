@@ -2,7 +2,7 @@
 
 ## cours 1
 
-les slides du cours : https://docs.google.com/presentation/d/1FTTJll5TPfsFTAIVRCNrNY7ewFFHKAuxYFSQVB8rbqs/edit#slide=id.g75cd6f2284_0_419
+Les slides du premier cours : https://docs.google.com/presentation/d/1FTTJll5TPfsFTAIVRCNrNY7ewFFHKAuxYFSQVB8rbqs/edit#slide=id.g75cd6f2284_0_419
 
 Les slides de FABERNOVEL (6-reasons-why-apis-are-reshaping-your-business) : https://fr.slideshare.net/faberNovel/6-reasons-why-apis-are-reshaping-your-business
 
@@ -18,7 +18,7 @@ https://kissmyfrogs.com/mehdi-medjaoui-oauth-api-startup/
 
 - https://www.programmableweb.com/
 
-enjeux business, RH, légoification du software, diminutin du temps de développement d'un prototype (mise sur le marché de sa proposition de valeur) 
+Enjeux business, RH, légoification du software, diminutin du temps de développement d'un prototype (mise sur le marché de sa proposition de valeur) 
 
 ressources partagées pendant le cours : 
 
@@ -31,7 +31,13 @@ ressources partagées pendant le cours :
 
 ## cours 2
 
-créer 10 recettes IFTTT ou bien Zapier basées sur des services numériques et au moins une ou deux sur mes objets enchantés
+Réponse à une question posée lors du premier cours : 
+
+"Our favorite Applets for social media" https://ifttt.com/explore/social-media-collection 
+
+
+
+TODO : créer 10 recettes IFTTT ou bien Zapier basées sur des services numériques et au moins une ou deux sur mes objets enchantés
 
 
 1/ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
@@ -62,7 +68,11 @@ créer 10 recettes IFTTT ou bien Zapier basées sur des services numériques et 
  https://litght-lego-led.glitch.me/home
  
  
- API https://litght-lego-led.glitch.me/?light=off https://litght-lego-led.glitch.me/?light=on
+ainsi que son API 
+
+allumé : https://litght-lego-led.glitch.me/?light=on
+ 
+etéint :  https://litght-lego-led.glitch.me/?light=off
  
  4/ train en LEGO 
  
