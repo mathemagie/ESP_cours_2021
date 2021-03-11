@@ -34,7 +34,7 @@ ressources partagées pendant le cours :
 créer 10 recettes IFTTT ou bien Zapier basées sur des services numériques et au moins une ou deux sur mes objets enchantés
 
 
-- URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
+1/ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
 
  https://changecolor-candle.glitch.me/vert
  
@@ -49,6 +49,14 @@ créer 10 recettes IFTTT ou bien Zapier basées sur des services numériques et 
  https://changecolor-candle.glitch.me/flash
 
  https://changecolor-candle.glitch.me/rainbow
+ 
+ 2/ sextoy
+ 
+ https://pussytalk-client.glitch.me/?id=SDWkq et la page sur laquelle je dois connecter le sextoy
+ 
+ https://pussytalk.glitch.me/?id=SDWkq
+ 
+ 
 
 
 
