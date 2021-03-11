@@ -37,7 +37,7 @@ Réponse à une question posée lors du premier cours :
 
 
 
-TODO : créer 10 recettes IFTTT ou bien Zapier basées sur des services numériques et au moins une ou deux sur mes objets enchantés
+TODO : créer 15 recettes IFTTT ou bien Zapier basées sur des services numériques et au moins une ou deux sur mes objets enchantés
 
 
 1/ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
