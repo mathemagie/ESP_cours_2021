@@ -57,17 +57,22 @@ créer 10 recettes IFTTT ou bien Zapier basées sur des services numériques et 
  https://pussytalk.glitch.me/?id=SDWkq
  
  
- 3/ light Lego 
+ 3/ light Lego de ma tour Eiffel 
  
  https://litght-lego-led.glitch.me/home
  
  
  API https://litght-lego-led.glitch.me/?light=off https://litght-lego-led.glitch.me/?light=on
  
+ 4/ train en LEGO 
+ 
+https://legotrain.glitch.me/ et son API https://legotrain.glitch.me/api  
 
 
 
 ## cours 3
+
+En mode projet
 
 
 
