@@ -31,6 +31,20 @@ ressources partagées pendant le cours :
 
 ## cours 2
 
+créer 10 recettes IFTTT ou bien Zapier basées sur des services numériques et au moins une ou deux sur mes objets enchantés
+
+
+- URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
+
+ https://changecolor-candle.glitch.me/vert
+ https://changecolor-candle.glitch.me/bleu
+ https://changecolor-candle.glitch.me/orange
+ https://changecolor-candle.glitch.me/rouge
+ https://changecolor-candle.glitch.me/jaune
+ https://changecolor-candle.glitch.me/flash
+https://changecolor-candle.glitch.me/rainbow
+
+
 
 ## cours 3
 
